@@ -25,3 +25,4 @@ Nice to Have
 https://developers.giphy.com/docs/optional-settings#rating
 Пустое значение - выбирается значение ретинга случайно
 
+
